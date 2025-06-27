@@ -1,0 +1,6 @@
+Benchmark Results:
+
+ds_1k.txt: 0s
+ds_10k.txt: 0s
+ds_100k.txt: 0s
+ds_100m.jsonl: 1m 17s
